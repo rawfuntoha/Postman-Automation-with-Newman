@@ -41,6 +41,12 @@ node .\report.js
 ![55555](https://github.com/rawfuntoha/Postman-Automation-with-Newman/assets/89455791/3c3e5f27-3fad-45d5-aa6e-582f658387db)
 ![333333](https://github.com/rawfuntoha/Postman-Automation-with-Newman/assets/89455791/9c9ea969-c7e1-411a-b240-212621b0b740)
 
+
+# Test Cases
+
+https://docs.google.com/spreadsheets/d/1v9SU5UqEc7RZE8Sp6ohn4mVqn1CqEKbt/edit?usp=sharing&ouid=107657059293700986765&rtpof=true&sd=true
+
+
 #  Bug and improvement suggestion
 
 https://docs.google.com/spreadsheets/d/1gffy9OAgp7cOkz9NQj5oBo-Ar2AiniwIDPPZ2Ld3res/edit?usp=sharing
@@ -48,4 +54,6 @@ https://docs.google.com/spreadsheets/d/1gffy9OAgp7cOkz9NQj5oBo-Ar2AiniwIDPPZ2Ld3
 # Postman Documentation
 
 https://documenter.getpostman.com/view/16896439/2s93mAVLac
+
+
 
