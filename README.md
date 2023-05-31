@@ -38,7 +38,7 @@ node .\report.js
 # Newman Reports
 
 ![1111](https://github.com/rawfuntoha/Postman-Automation-with-Newman/assets/89455791/97a5f3e3-70b3-4412-9211-e3cd494e5b5b)
-![2222](https://github.com/rawfuntoha/Postman-Automation-with-Newman/assets/89455791/9261d020-569c-4692-9584-274bae795adb)
+![55555](https://github.com/rawfuntoha/Postman-Automation-with-Newman/assets/89455791/3c3e5f27-3fad-45d5-aa6e-582f658387db)
 ![333333](https://github.com/rawfuntoha/Postman-Automation-with-Newman/assets/89455791/9c9ea969-c7e1-411a-b240-212621b0b740)
 
 #  Bug and improvement suggestion
